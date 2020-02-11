@@ -27,10 +27,11 @@ recipes that take the food you already have to avoid waste. After shopping you w
 
 ## Stack
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Front End     | Back End      | Deployment    |  API          |
+| ------------- | ------------- | ------------- | ------------- |
+| ![React](https://library.kissclipart.com/20180929/ixq/kissclipart-react-native-icon-png-clipart-react-javascript-lib-6b4c104c01284500.jpg)  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 
 ### Front-End
 
