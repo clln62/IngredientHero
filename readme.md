@@ -10,23 +10,27 @@ recipes that take the food you already have to avoid waste. After shopping you w
 
 ## User Stories
 
-As a user, I want to create an account and successfully log in.<br/>
-As a user, I want to see a dashboard of recipes and pantry items.<br/>
-As a user, I want to add and remove items from my pantry.<br/>
-As a user, I want to get notifications of items expiring soon.<br/>
-As a user, I want to get recipes based on the items in my pantry.<br/>
-As a user, I want a simple and easy to use page.<br/>
+- As a user, I want to create an account and successfully log in.<br/>
+- As a user, I want to see a dashboard of recipes and pantry items.<br/>
+- As a user, I want to add and remove items from my pantry.<br/>
+- As a user, I want to get notifications of items expiring soon.<br/>
+- As a user, I want to get recipes based on the items in my pantry.<br/>
+- As a user, I want a simple and easy to use page.<br/>
 
 
 ### Coming Soon
 
-As a user, I want to be able to share my recipes with other users.<br/>
-As a user, I want to rate the recipes that I use and see my top-rated options.<br/>
-As a user, I want to see recipes based on my food allergies and preferences.<br/>
+- As a user, I want to be able to share my recipes with other users.<br/>
+- As a user, I want to rate the recipes that I use and see my top-rated options.<br/>
+- As a user, I want to see recipes based on my food allergies and preferences.<br/>
 
 
 ## Stack
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Front-End
 
