@@ -9,19 +9,19 @@ recipes that take the food you already have to avoid waste. After shopping you w
 
 # User Stories
 
-As a user, I want to create an account and successfully log in.
-As a user, I want to see a dashboard of recipes and pantry items.
-As a user, I want to add and remove items from my pantry.
-As a user, I want to get notifications of items expiring soon.
-As a user, I want to get recipes based on the items in my pantry.
-As a user, I want a simple and easy to use page.
+As a user, I want to create an account and successfully log in.<br/>
+As a user, I want to see a dashboard of recipes and pantry items.<br/>
+As a user, I want to add and remove items from my pantry.<br/>
+As a user, I want to get notifications of items expiring soon.<br/>
+As a user, I want to get recipes based on the items in my pantry.<br/>
+As a user, I want a simple and easy to use page.<br/>
 
 
 ## Coming Soon
 
-As a user, I want to be able to share my recipes with other users.
-As a user, I want to rate the recipes that I use and see my top-rated options.
-As a user, I want to see recipes based on my food allergies and preferences.
+As a user, I want to be able to share my recipes with other users.<br/>
+As a user, I want to rate the recipes that I use and see my top-rated options.<br/>
+As a user, I want to see recipes based on my food allergies and preferences.<br/>
 
 
 # Stack
@@ -50,10 +50,10 @@ This project was managed using git workflow, tracked with Git Graph:
 
 
 We have one development branch that branches out specific features. When they are ready to be deployed, features are deployed as follows:
-1. The branch is rebased to consolidate commit history and ensure only working code is pushed to the dev branch.
-2. The branch is pushed.
-3. A pull request is made.
-4. Another member of the team is to perform a review before merging the branch into developer.
+1. The branch is rebased to consolidate commit history and ensure only working code is pushed to the dev branch.<br/>
+2. The branch is pushed.<br/>
+3. A pull request is made.<br/>
+4. Another member of the team is to perform a review before merging the branch into developer.<br/>
 5. At the end of a sprint, the developer branch is merged into production.
 
 ### In addition to git, we also used Trello to manage pending tasks, bugs and feedback.
@@ -69,14 +69,14 @@ our skills the developed as a team and culminated in this project.
 
 ## Challenges
 
-• On the Front End, we attempted to use Boot Box in order to build our modal windows. This proved to be a challenge as we strived to edit and modify the content while attempting to give the user a more streamlined experience.
-• On the Back End, our initial query string setup and configurations seemed promising, but after further research, we needed to simplify and break down each line in order to save and access information in the database.
+• On the Front End, we attempted to use Boot Box in order to build our modal windows. This proved to be a challenge as we strived to edit and modify the content while attempting to give the user a more streamlined experience.<br/>
+• On the Back End, our initial query string setup and configurations seemed promising, but after further research, we needed to simplify and break down each line in order to save and access information in the database.<br/>
 • Overall, deployment had an initial struggle in learning the ins and outs of AWS and working with NGINX in the terminal.
 
 ## Learnings
 
-• Over time, we learned that stricter code reviews within GitHub was an absolute must before adding outside code to the development branch, and then the master branch.
-• Communication was a key for the team to reach better understanding of where the app was at and where it was going. Knowing aspects of development in the full stack allowed for a better understanding of how to make the app work as a cohesive piece.
+• Over time, we learned that stricter code reviews within GitHub was an absolute must before adding outside code to the development branch, and then the master branch.<br/>
+• Communication was a key for the team to reach better understanding of where the app was at and where it was going. Knowing aspects of development in the full stack allowed for a better understanding of how to make the app work as a cohesive piece.<br/>
 • Tickets on Trello assisted the team in planning and production. Utilizing Trello kept us organized and accountable in creating and developing a production level application.
 
 
