@@ -30,9 +30,9 @@ recipes that take the food you already have to avoid waste. After shopping you w
 | Front End     | Back End      | Deployment    |  API          |
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://cdn.worldvectorlogo.com/logos/react.svg" height="125px" width="125px"></img>  | <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" height="85px" width="125px"></img>  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="125px" width="125px"></img>  | <img src="https://spoonacular.com/images/spoonacular-logo-b.svg" height="125px" width="125px"></img>  |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="125px" width="125px"></img>  | <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" height="85px" width="125px"></img>  | <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" height="95px" width="125px"></img>  | | |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="125px" width="125px"></img>  | <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" height="85px" width="125px"></img>  | <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" height="95px" width="125px"></img>  | --- | <img src="https://cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/007/263/original/Axios_logo_-_RGB_-_clear_space.png?1580309119" height="85px" width="125px"></img>  |
 |  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" height="125px" width="125px"></img>  |
-| <img src="https://cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/007/263/original/Axios_logo_-_RGB_-_clear_space.png?1580309119" height="85px" width="125px"></img>  | 
+|  | 
 | <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png" height="85px" width="125px"></img> |
 
 
