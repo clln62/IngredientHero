@@ -49,7 +49,7 @@ For recipes, we utilized Spoonacular's API for a comprehensive list that worked 
 
 This project was managed using git workflow, tracked with Git Graph:
 
-<video src="https://collinpersonal.s3.us-east-2.amazonaws.com/gitGraphIngredientHero.mov" width="320" height="200" controls preload></video>
+![GitGraph](https://collinpersonal.s3.us-east-2.amazonaws.com/gitGraph.gif)
 
 
 We have one development branch that branches out specific features. When they are ready to be deployed, features are deployed as follows:
