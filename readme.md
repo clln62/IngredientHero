@@ -74,15 +74,15 @@ our skills the developed as a team and culminated in this project.
 
 ### Challenges
 
-• On the Front End, we attempted to use Boot Box in order to build our modal windows. This proved to be a challenge as we strived to edit and modify the content while attempting to give the user a more streamlined experience.<br/>
-• On the Back End, our initial query string setup and configurations seemed promising, but after further research, we needed to simplify and break down each line in order to save and access information in the database.<br/>
-• Overall, deployment had an initial struggle in learning the ins and outs of AWS and working with NGINX in the terminal.
+- On the Front End, we attempted to use Boot Box in order to build our modal windows. This proved to be a challenge as we strived to edit and modify the content while attempting to give the user a more streamlined experience.<br/>
+- On the Back End, our initial query string setup and configurations seemed promising, but after further research, we needed to simplify and break down each line in order to save and access information in the database.<br/>
+- Overall, deployment had an initial struggle in learning the ins and outs of AWS and working with NGINX in the terminal.
 
 ### Learnings
 
-• Over time, we learned that stricter code reviews within GitHub was an absolute must before adding outside code to the development branch, and then the master branch.<br/>
-• Communication was a key for the team to reach better understanding of where the app was at and where it was going. Knowing aspects of development in the full stack allowed for a better understanding of how to make the app work as a cohesive piece.<br/>
-• Tickets on Trello assisted the team in planning and production. Utilizing Trello kept us organized and accountable in creating and developing a production level application.
+- Over time, we learned that stricter code reviews within GitHub was an absolute must before adding outside code to the development branch, and then the master branch.<br/>
+- Communication was a key for the team to reach better understanding of where the app was at and where it was going. Knowing aspects of development in the full stack allowed for a better understanding of how to make the app work as a cohesive piece.<br/>
+- Tickets on Trello assisted the team in planning and production. Utilizing Trello kept us organized and accountable in creating and developing a production level application.
 
 
 #### Contributors
