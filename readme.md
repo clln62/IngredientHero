@@ -63,7 +63,7 @@ We have one development branch that branches out specific features. When they ar
 
 **Trello Board: https://trello.com/b/swETQG26/ingredient-hero-project**
 
-![Trello Board](https://collinpersonal.s3.us-east-2.amazonaws.com/trelloboard.png)
+![Trello Board](https://collinpersonal.s3.us-east-2.amazonaws.com/trelloboard.png =100x20)
 
 
 
