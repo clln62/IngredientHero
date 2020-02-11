@@ -48,6 +48,8 @@ For recipes, we utilized Spoonacular's API for a comprehensive list that worked 
 
 This project was managed using git workflow, tracked with Git Graph:
 
+<video src="https://collinpersonal.s3.us-east-2.amazonaws.com/gitGraphIngredientHero.mov" width="320" height="200" controls preload></video>
+
 
 We have one development branch that branches out specific features. When they are ready to be deployed, features are deployed as follows:
 1. The branch is rebased to consolidate commit history and ensure only working code is pushed to the dev branch.<br/>
@@ -58,7 +60,7 @@ We have one development branch that branches out specific features. When they ar
 
 ### In addition to git, we also used Trello to manage pending tasks, bugs and feedback.
 
-** Trello Board: https://trello.com/b/swETQG26/ingredient-hero-project **
+**Trello Board: https://trello.com/b/swETQG26/ingredient-hero-project**
 
 
 
