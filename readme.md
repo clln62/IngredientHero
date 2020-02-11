@@ -3,7 +3,10 @@
 Ever wonder what to do with your soon-to-be expired perishable food items? Ingredient Hero is your savior that will compile all of your food items in one place and recommend 
 recipes that take the food you already have to avoid waste. After shopping you will select the drop-down menu to input your perishable items with recommended expiry dates. Recipes will begin to build based off of the items that will soon expire, rather than later. More items that expire the better the recommended recipe will populate. 
 
-<img src="https://collinpersonal.s3.us-east-2.amazonaws.com/IH1.png"></img><br/>
+<img src="./images/IH1.png" height="50%" width="50%"></img><br/>
+<img src="./images/IH2.png" height="50%" width="50%"></img><br/>
+<img src="./images/IH3.png" height="50%" width="50%"></img><br/>
+<img src="./images/IH4.png" height="50%" width="50%"></img><br/>
 
 
 
