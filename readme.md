@@ -29,7 +29,7 @@ recipes that take the food you already have to avoid waste. After shopping you w
 
 | Front End     | Back End      | Deployment    |  API          |
 | ------------- | ------------- | ------------- | ------------- |
-| ![React](https://library.kissclipart.com/20180929/ixq/kissclipart-react-native-icon-png-clipart-react-javascript-lib-6b4c104c01284500.jpg)  | Content Cell  | Content Cell  | Content Cell  |
+| ![React](https://cdn.worldvectorlogo.com/logos/react.svg)  | ![NodeJS](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png)  | ![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png)  | ![Spoonacular](https://spoonacular.com/images/spoonacular-logo-b.svg)  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
